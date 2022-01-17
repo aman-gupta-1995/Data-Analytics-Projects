@@ -45,7 +45,6 @@ Subjects Covered:
 Using Python, I gathered data from a variety of sources, assess its quality and tidiness, then clean it. I documented the wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.By using AB Testing and regression methods to decide if the company should launch a new webpage or keep the old one. 
 
 
-
 ## Part 3 - Data Extraction and Wrangling
 
 Subjects Covered:
