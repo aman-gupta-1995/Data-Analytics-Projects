@@ -65,7 +65,7 @@ Subjects Covered:
 Collect data from different sources and assess data visually and programmatically , clean data for visulizing data and finding insights later. 
 
 
-## Part 4 - Data Visualisation
+## Part 4 - Data Visualisation 
 
 Subjects Covered:
 * Univariate exploration of data ( histogram , bar charts , Use axis limits and different scales ) 
