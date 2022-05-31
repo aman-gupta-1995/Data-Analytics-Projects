@@ -5,7 +5,7 @@ Fuel Economy Guide Database files.
 
 The ZIP'd versions of these files are named ??DATA.ZIP (e.g., 83DATA.ZIP)   
 for 1978-1983 database files, ??MFGUI.ZIP (e.g., 93MFGUI.ZIP) for    
-1984-1997 and  ??GUIDE.ZIP for 1998 and later model year database files.      
+1984-1997 and  ??GUIDE.ZIP for 1998 and later model year database files.       
     
 Following are notes about the files included in the ZIP's,    
 then definitions of abbreviations that are used in the reports, and
