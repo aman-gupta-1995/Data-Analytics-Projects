@@ -26,7 +26,7 @@ I complete the entire data analysis process, starting by posing a question and f
 
 ### Project 2:  Investigate a dataset called TMDb movie data.
 I was provided a dataset reflecting data collected from an experiment. I used statistical techniques to answer questions about the data and report my conclusions and recommendations in a report.
-
+ 
 
 
 ## Part 2 -Practical Statistics 
