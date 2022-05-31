@@ -6,7 +6,7 @@ the sake of this project. When assessing this data, the issues detected (and lat
 are meant to simulate real-world data quality and tidiness issues.
   
 # That said: 
-*This dataset was constructed with the consult of real doctors to ensure plausibility.   
+*This dataset was constructed with the consult of real doctors to ensure plausibility.    
 *This clinical trial data for an alternative insulin was inspired and closely mimics this real 
 clinical trial for an inhaled insulin called Afrezza.
 * The data quality issues in this dataset mimic real, common data quality issues in healthcare data.
