@@ -3,4 +3,3 @@ This is my first project done on Udacity for Data Analyst Nano-Degree.
 2. Calculate the moving average temperature
 3. plot the moving average temperature and add titles for plot, axes.
 
-
