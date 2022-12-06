@@ -8,7 +8,7 @@ Tips: For data science projects with python, I would recomend you to install num
 
 
 ## Part 1 - Intro to Data Analysis
-
+ 
 Subjects Covered:
 * Anaconda: Learn to use Anaconda to manage packages and environments for use with Python
 * Jupyter Notebook: Learn to use this open-source web application 
