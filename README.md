@@ -6,7 +6,7 @@ Udacity online data analyst program prepares me for a career as a data analyst b
 
 Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries. 
  
-## Part 1 - Intro to Data Analysis 
+## Part 1 - Intro to Data Analysis
  
 Subjects Covered:
 * Anaconda: Learn to use Anaconda to manage packages and environments for use with Python
