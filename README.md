@@ -63,7 +63,6 @@ Subjects Covered:
 ### Project 4 :  Data Wrangle and Analyze with Tweet WeRateDogs data
 Collect data from different sources and assess data visually and programmatically , clean data for visulizing data and finding insights later. 
 
-
 ## Part 4 - Data Visualisation
 
 Subjects Covered:
